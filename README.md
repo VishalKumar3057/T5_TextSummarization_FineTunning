@@ -1,4 +1,7 @@
 T5 Fine-Tuning for Text Summarization on Multi-News Dataset
+
+
+
 This Python script demonstrates the process of fine-tuning the T5 (Text-To-Text Transfer Transformer) model for text summarization using the Multi-News dataset. The dataset consists of multi-document news articles along with corresponding human-written summaries, making it ideal for training a summarization model. The code leverages Hugging Face's transformers and datasets libraries to manage data loading, tokenization, model training, and evaluation, offering an efficient framework for experimenting with T5 in text summarization tasks.
 
 Process Overview
